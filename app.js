@@ -15,7 +15,7 @@ app.use("/users", usersRoutes);
 app.use("/routes", routesRoutes);
 app.use("/trips", tripsRoutes);
 app.use("/seats", seatsRoutes);
-app.get("/", (req, res) => res.send("Welcome to the Users API!"));
+app.get("/", (req, res) => res.send("Welcome to the Seat Booking API!"));
 app.all("*", (req, res) =>
   res.send("You've tried reaching a route that doesn't exist.")
 );
