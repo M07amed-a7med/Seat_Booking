@@ -16,7 +16,7 @@ app.use("/trips", tripsRoutes);
 app.use("/seats", seatsRoutes);
 app.get("/", (req, res) => res.send("Welcome to the Seat Booking API!"));
 app.all("*", (req, res) =>
-  res.send("You've tried reaching a route that doesn't exist.")
+  res.status(404).send("You've tried reaching a route that doesn't exist.")
 );
 
 app.listen(PORT, () =>

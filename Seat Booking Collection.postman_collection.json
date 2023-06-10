@@ -115,7 +115,7 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:3000/seats/MON0900AMJ2M",
+					"raw": "http://localhost:3000/seats/MON0900AMJ2M?isAdmin=true",
 					"protocol": "http",
 					"host": [
 						"localhost"
@@ -124,6 +124,12 @@
 					"path": [
 						"seats",
 						"MON0900AMJ2M"
+					],
+					"query": [
+						{
+							"key": "isAdmin",
+							"value": "true"
+						}
 					]
 				}
 			},
@@ -152,6 +158,44 @@
 					"port": "3000",
 					"path": [
 						"seats"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:3000/seats/MON0900AMJ2M - isAdmin",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"username\":\"Karim\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3000/seats/MON0900AMJ2M?isAdmin=true",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"seats",
+						"MON0900AMJ2M"
+					],
+					"query": [
+						{
+							"key": "isAdmin",
+							"value": "true"
+						}
 					]
 				}
 			},
