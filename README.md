@@ -31,4 +31,4 @@ Seat Booking Collection.postman_collection
 
 
 Also here's a video that go through the code briefly:
-
+https://drive.google.com/drive/folders/1xRCkm2Gg5YGs85U_gZoMUg_gOZkVaG6w?usp=sharing
