@@ -18,7 +18,7 @@ const bookSeat = async (seat) => {
   }
   //check if seatNo is valid
   if (seat.seatNo < 1 || seat.seatNo > trip.noOfSeats) {
-    return { errorMsg: `wrong seat number`, status: 404 };
+    return { errorMsg: `wrong seat number`, status: 400 };
   }
   let seatsData = fs.readFileSync("./mock-data/seats.json");
   let bookedSeats = JSON.parse(seatsData);

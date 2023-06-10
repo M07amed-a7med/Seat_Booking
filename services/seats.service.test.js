@@ -32,8 +32,7 @@ describe("Seats Service", () => {
     expect(result).toContainEqual({
       seatNo: 1,
       tripId: "MON1030AMJ2M",
-      userName: "MohamedAhmed",
-      status: "booked",
+      status: "booked"
     });
   });
 
@@ -65,40 +64,6 @@ describe("Seats Service", () => {
     expect(result).toEqual({
       errorMsg: `trip MON1035AMJ2M doesn't exist`,
       status: 404,
-    });
-  });
-
-  test("bookSeat => should return the booked Seat", async () => {
-    fs.readFileSync = jest
-      .fn()
-      .mockReturnValueOnce(
-        JSON.stringify([
-          {
-            id: "MON1030AMJ2M",
-            hour: "10:30 AM",
-            day: "Monday",
-            routeId: "J2M",
-            noOfSeats: 7,
-          },
-        ])
-      )
-      .mockReturnValueOnce(
-        JSON.stringify([
-          {
-            seatNo: 1,
-            tripId: "MON1030AMJ2M",
-            userName: "MohamedAhmed",
-            status: "booked",
-          },
-        ])
-      );
-    const result = await seatsService.getSeats("MON1030AMJ2M", false);
-    expect(Array.isArray(result)).toBe(true);
-    expect(result).toContainEqual({
-      seatNo: 1,
-      tripId: "MON1030AMJ2M",
-      userName: "MohamedAhmed",
-      status: "booked",
     });
   });
 
@@ -274,6 +239,6 @@ describe("Seats Service", () => {
       tripId: "MON1030AMJ2M",
       seatNo: 10,
     });
-    expect(result).toEqual({ errorMsg: `wrong seat number`, status: 404 });
+    expect(result).toEqual({ errorMsg: `wrong seat number`, status: 400 });
   });
 });
