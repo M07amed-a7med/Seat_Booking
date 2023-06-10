@@ -22,5 +22,13 @@ To test the app, type the following command in your terminal:
 npm test
 ```
 This will run the Jest test suite, which will verify that the app is working as expected.
+
+##Try the APIs
+you can import the postman collection directly into your postman, please find the below file in the root directory:
+```
+Seat Booking Collection.postman_collection
+```
+
+
 Also here's a video that go through the code briefly:
 
