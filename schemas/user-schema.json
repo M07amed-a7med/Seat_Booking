@@ -1,0 +1,12 @@
+{
+    "title": "user schema",
+    "description": "describes properties required to create a user",
+    "type": "object",
+    "properties": {
+      "userName": {
+        "type": "string",
+        "description": "userName of new user"
+      }
+    },
+    "required": ["userName"]
+  }

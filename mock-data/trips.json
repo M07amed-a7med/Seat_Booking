@@ -1,0 +1,320 @@
+[
+    {
+        "id":"MON0900AMJ2M",
+        "hour":"09:00 AM",
+        "day":"Monday",
+        "routeId":"J2M",
+        "noOfSeats":7
+    },
+    {
+        "id":"MON1030AMJ2M",
+        "hour":"10:30 AM",
+        "day":"Monday",
+        "routeId":"J2M",
+        "noOfSeats":7
+    },
+    {
+        "id":"MON0100PMJ2M",
+        "hour":"01:00 PM",
+        "day":"Monday",
+        "routeId":"J2M",
+        "noOfSeats":7
+    },
+    {
+        "id":"TUE0900AMJ2M",
+        "hour":"09:00 AM",
+        "day":"Tuesday",
+        "routeId":"J2M",
+        "noOfSeats":7
+    },
+    {
+        "id":"TUE1030AMJ2M",
+        "hour":"10:30 AM",
+        "day":"Tuesday",
+        "routeId":"J2M",
+        "noOfSeats":7
+    },
+    {
+        "id":"TUE0100PMJ2M",
+        "hour":"01:00 PM",
+        "day":"Tuesday",
+        "routeId":"J2M",
+        "noOfSeats":7
+    },
+    {
+        "id":"WED0900AMJ2M",
+        "hour":"09:00 AM",
+        "day":"Wednesday",
+        "routeId":"J2M",
+        "noOfSeats":7
+    },
+    {
+        "id":"WED1030AMJ2M",
+        "hour":"10:30 AM",
+        "day":"Wednesday",
+        "routeId":"J2M",
+        "noOfSeats":7
+    },
+    {
+        "id":"WED0100PMJ2M",
+        "hour":"01:00 PM",
+        "day":"Wednesday",
+        "routeId":"J2M",
+        "noOfSeats":7
+    },
+    {
+        "id":"THU0900AMJ2M",
+        "hour":"09:00 AM",
+        "day":"Thursday",
+        "routeId":"J2M",
+        "noOfSeats":7
+    },
+    {
+        "id":"THU1030AMJ2M",
+        "hour":"10:30 AM",
+        "day":"Thursday",
+        "routeId":"J2M",
+        "noOfSeats":7
+    },
+    {
+        "id":"THU0100PMJ2M",
+        "hour":"01:00 PM",
+        "day":"Thursday",
+        "routeId":"J2M",
+        "noOfSeats":7
+    },
+    {
+        "id":"FRI0900AMJ2M",
+        "hour":"09:00 AM",
+        "day":"Friday",
+        "routeId":"J2M",
+        "noOfSeats":7
+    },
+    {
+        "id":"FRI1030AMJ2M",
+        "hour":"10:30 AM",
+        "day":"Friday",
+        "routeId":"J2M",
+        "noOfSeats":7
+    },
+    {
+        "id":"FRI0100PMJ2M",
+        "hour":"01:00 PM",
+        "day":"Friday",
+        "routeId":"J2M",
+        "noOfSeats":7
+    }
+    ,
+
+    {
+        "id":"MON0900AMA2D",
+        "hour":"09:00 AM",
+        "day":"Monday",
+        "routeId":"A2D",
+        "noOfSeats":7
+    },
+    {
+        "id":"MON1030AMA2D",
+        "hour":"10:30 AM",
+        "day":"Monday",
+        "routeId":"A2D",
+        "noOfSeats":7
+    },
+    {
+        "id":"MON0100PMA2D",
+        "hour":"01:00 PM",
+        "day":"Monday",
+        "routeId":"A2D",
+        "noOfSeats":7
+    },
+    {
+        "id":"TUE0900AMA2D",
+        "hour":"09:00 AM",
+        "day":"Tuesday",
+        "routeId":"A2D",
+        "noOfSeats":7
+    },
+    {
+        "id":"TUE1030AMA2D",
+        "hour":"10:30 AM",
+        "day":"Tuesday",
+        "routeId":"A2D",
+        "noOfSeats":7
+    },
+    {
+        "id":"TUE0100PMA2D",
+        "hour":"01:00 PM",
+        "day":"Tuesday",
+        "routeId":"A2D",
+        "noOfSeats":7
+    },
+    {
+        "id":"WED0900AMA2D",
+        "hour":"09:00 AM",
+        "day":"Wednesday",
+        "routeId":"A2D",
+        "noOfSeats":7
+    },
+    {
+        "id":"WED1030AMA2D",
+        "hour":"10:30 AM",
+        "day":"Wednesday",
+        "routeId":"A2D",
+        "noOfSeats":7
+    },
+    {
+        "id":"WED0100PMA2D",
+        "hour":"01:00 PM",
+        "day":"Wednesday",
+        "routeId":"A2D",
+        "noOfSeats":7
+    },
+    {
+        "id":"THU0900AMA2D",
+        "hour":"09:00 AM",
+        "day":"Thursday",
+        "routeId":"A2D",
+        "noOfSeats":7
+    },
+    {
+        "id":"THU1030AMA2D",
+        "hour":"10:30 AM",
+        "day":"Thursday",
+        "routeId":"A2D",
+        "noOfSeats":7
+    },
+    {
+        "id":"THU0100PMA2D",
+        "hour":"01:00 PM",
+        "day":"Thursday",
+        "routeId":"A2D",
+        "noOfSeats":7
+    },
+    {
+        "id":"FRI0900AMA2D",
+        "hour":"09:00 AM",
+        "day":"Friday",
+        "routeId":"A2D",
+        "noOfSeats":7
+    },
+    {
+        "id":"FRI1030AMA2D",
+        "hour":"10:30 AM",
+        "day":"Friday",
+        "routeId":"A2D",
+        "noOfSeats":7
+    },
+    {
+        "id":"FRI0100PMA2D",
+        "hour":"01:00 PM",
+        "day":"Friday",
+        "routeId":"A2D",
+        "noOfSeats":7
+    },
+    {
+        "id":"MON0900AMM2J",
+        "hour":"09:00 AM",
+        "day":"Monday",
+        "routeId":"M2J",
+        "noOfSeats":7
+    },
+    {
+        "id":"MON1030AMM2J",
+        "hour":"10:30 AM",
+        "day":"Monday",
+        "routeId":"M2J",
+        "noOfSeats":7
+    },
+    {
+        "id":"MON0100PMM2J",
+        "hour":"01:00 PM",
+        "day":"Monday",
+        "routeId":"M2J",
+        "noOfSeats":7
+    },
+    {
+        "id":"TUE0900AMM2J",
+        "hour":"09:00 AM",
+        "day":"Tuesday",
+        "routeId":"M2J",
+        "noOfSeats":7
+    },
+    {
+        "id":"TUE1030AMM2J",
+        "hour":"10:30 AM",
+        "day":"Tuesday",
+        "routeId":"M2J",
+        "noOfSeats":7
+    },
+    {
+        "id":"TUE0100PMM2J",
+        "hour":"01:00 PM",
+        "day":"Tuesday",
+        "routeId":"M2J",
+        "noOfSeats":7
+    },
+    {
+        "id":"WED0900AMM2J",
+        "hour":"09:00 AM",
+        "day":"Wednesday",
+        "routeId":"M2J",
+        "noOfSeats":7
+    },
+    {
+        "id":"WED1030AMM2J",
+        "hour":"10:30 AM",
+        "day":"Wednesday",
+        "routeId":"M2J",
+        "noOfSeats":7
+    },
+    {
+        "id":"WED0100PMM2J",
+        "hour":"01:00 PM",
+        "day":"Wednesday",
+        "routeId":"M2J",
+        "noOfSeats":7
+    },
+    {
+        "id":"THU0900AMM2J",
+        "hour":"09:00 AM",
+        "day":"Thursday",
+        "routeId":"M2J",
+        "noOfSeats":7
+    },
+    {
+        "id":"THU1030AMM2J",
+        "hour":"10:30 AM",
+        "day":"Thursday",
+        "routeId":"M2J",
+        "noOfSeats":7
+    },
+    {
+        "id":"THU0100PMM2J",
+        "hour":"01:00 PM",
+        "day":"Thursday",
+        "routeId":"M2J",
+        "noOfSeats":7
+    },
+    {
+        "id":"FRI0900AMM2J",
+        "hour":"09:00 AM",
+        "day":"Friday",
+        "routeId":"M2J",
+        "noOfSeats":7
+    },
+    {
+        "id":"FRI1030AMM2J",
+        "hour":"10:30 AM",
+        "day":"Friday",
+        "routeId":"M2J",
+        "noOfSeats":7
+    },
+    {
+        "id":"FRI0100PMM2J",
+        "hour":"01:00 PM",
+        "day":"Friday",
+        "routeId":"M2J",
+        "noOfSeats":7
+    }
+    
+]

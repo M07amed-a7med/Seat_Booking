@@ -1,0 +1,20 @@
+{
+  "title": "new booking",
+  "description": "describes properties required to create a seat booking",
+  "type": "object",
+  "properties": {
+    "tripId": {
+      "type": "string",
+      "description": "Id of the trip user wants to book the seat on"
+    },
+    "seatNo": {
+      "type": "number",
+      "description": "seat number"
+    },
+    "userName": {
+      "type": "string",
+      "description": "userName of the user"
+    }
+  },
+  "required": ["tripId", "seatNo", "userName"]
+}

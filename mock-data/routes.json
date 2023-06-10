@@ -1,0 +1,17 @@
+[
+    {
+        "id":"A2D",
+        "from":"Abu-Dhabi",
+        "To":"Dubai"
+    },
+    {
+        "id":"M2J",
+        "from":"Marina",
+        "To":"Jumairah"
+    },
+    {
+        "id":"J2M",
+        "from":"Jumairah",
+        "To":"Marina"
+    }
+]
