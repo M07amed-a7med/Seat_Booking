@@ -1,1 +1,20 @@
-[{"seatNo":1,"tripId":"MON0900AMJ2M","userName":"MohamedAhmed","status":"booked"},{"seatNo":2,"tripId":"MON0900AMJ2M","userName":"Karim","status":"booked"},{"seatNo":3,"tripId":"MON0900AMJ2M","userName":"Omar","status":"booked"}]
+[
+  {
+    "seatNo": 1,
+    "tripId": "MON0900AMJ2M",
+    "userName": "MohamedAhmed",
+    "status": "booked"
+  },
+  {
+    "seatNo": 2,
+    "tripId": "MON0900AMJ2M",
+    "userName": "Karim",
+    "status": "booked"
+  },
+  {
+    "seatNo": 3,
+    "tripId": "MON0900AMJ2M",
+    "userName": "Omar",
+    "status": "booked"
+  }
+]

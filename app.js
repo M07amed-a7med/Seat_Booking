@@ -1,7 +1,6 @@
 const express = require("express");
-// const bodyParser = require("body-parser");
 
-const usersRoutes = require("./routes/users.js");
+const usersRoutes = require("./routes/users");
 const routesRoutes = require("./routes/routes");
 const tripsRoutes = require("./routes/trips");
 const seatsRoutes = require("./routes/seats");
